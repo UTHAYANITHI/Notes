@@ -1,0 +1,25 @@
+name: eventnexus
+
+services:
+  all:
+    image: eventnexus-all:v1.0.0.0
+    deploy:
+      replicas: 1
+      restart_policy:
+        condition: none
+    volumes:
+      - ${HOME}/files/eventnexus/all/configuration.Production.json:/app/configuration.Production.json
+      - ${HOME}/data/eventnexus/all:/data
+      - eventnexus-logs:/logs
+    ports:
+      - 5000:5000  
+    networks:
+      - uthai-network
+  
+volumes:
+  eventnexus-logs:
+
+networks:
+ uthai-network:
+    name: uthai-network
+    external: true
