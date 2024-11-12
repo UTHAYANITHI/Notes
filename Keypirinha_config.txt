@@ -1,0 +1,528 @@
+{
+   ".header" : {
+      "creator" : "Keypirinha v2.26 (e037f62)",
+      "creator_url" : "http://keypirinha.com/",
+      "format" : 102,
+      "modified" : "2024-11-12T05:06:13+0000",
+      "type" : "history"
+   },
+   "history" : [
+      {
+         "action" : null,
+         "item" : 7544475573990267934,
+         "label" : "Keypirinha: Configure",
+         "time" : "2024-08-21T06:29:03+0000"
+      },
+      {
+         "action" : null,
+         "item" : 13789250319428755209,
+         "label" : "Keypirinha: Reload Configuration",
+         "time" : "2024-08-21T06:29:51+0000"
+      },
+      {
+         "action" : null,
+         "item" : 7544475573990267934,
+         "label" : "Keypirinha: Configure",
+         "time" : "2024-08-21T06:30:19+0000"
+      },
+      {
+         "action" : null,
+         "item" : 7544475573990267934,
+         "label" : "Keypirinha: Configure",
+         "time" : "2024-08-21T06:33:46+0000"
+      },
+      {
+         "action" : null,
+         "item" : 13789250319428755209,
+         "label" : "Keypirinha: Reload Configuration",
+         "time" : "2024-08-21T06:34:11+0000"
+      },
+      {
+         "action" : null,
+         "item" : 7544475573990267934,
+         "label" : "Keypirinha: Configure",
+         "time" : "2024-08-21T06:34:24+0000"
+      },
+      {
+         "action" : null,
+         "item" : 13789250319428755209,
+         "label" : "Keypirinha: Reload Configuration",
+         "time" : "2024-08-21T06:34:36+0000"
+      },
+      {
+         "action" : null,
+         "item" : 13789250319428755209,
+         "label" : "Keypirinha: Reload Configuration",
+         "time" : "2024-08-21T06:35:43+0000"
+      },
+      {
+         "action" : null,
+         "item" : 13789250319428755209,
+         "label" : "Keypirinha: Reload Configuration",
+         "time" : "2024-08-21T06:35:55+0000"
+      },
+      {
+         "action" : null,
+         "item" : 13789250319428755209,
+         "label" : "Keypirinha: Reload Configuration",
+         "time" : "2024-08-21T06:37:06+0000"
+      },
+      {
+         "action" : null,
+         "item" : 7544475573990267934,
+         "label" : "Keypirinha: Configure",
+         "time" : "2024-08-22T06:05:28+0000"
+      },
+      {
+         "action" : null,
+         "item" : 7544475573990267934,
+         "label" : "Keypirinha: Configure",
+         "time" : "2024-08-22T06:30:58+0000"
+      },
+      {
+         "action" : null,
+         "item" : 13789250319428755209,
+         "label" : "Keypirinha: Reload Configuration",
+         "time" : "2024-08-22T06:34:54+0000"
+      },
+      {
+         "action" : null,
+         "item" : 13789250319428755209,
+         "label" : "Keypirinha: Reload Configuration",
+         "time" : "2024-08-22T06:35:39+0000"
+      },
+      {
+         "action" : null,
+         "item" : 7544475573990267934,
+         "label" : "Keypirinha: Configure",
+         "time" : "2024-08-22T06:35:49+0000"
+      },
+      {
+         "action" : null,
+         "item" : 7673886259247275428,
+         "label" : "C:\\Program Files\\Git",
+         "time" : "2024-08-22T06:37:06+0000"
+      },
+      {
+         "action" : null,
+         "item" : 7544475573990267934,
+         "label" : "Keypirinha: Configure",
+         "time" : "2024-08-22T06:38:04+0000"
+      },
+      {
+         "action" : null,
+         "item" : 13789250319428755209,
+         "label" : "Keypirinha: Reload Configuration",
+         "time" : "2024-08-22T06:40:11+0000"
+      },
+      {
+         "action" : null,
+         "item" : 13789250319428755209,
+         "label" : "Keypirinha: Reload Configuration",
+         "time" : "2024-08-22T06:43:03+0000"
+      },
+      {
+         "action" : null,
+         "item" : 13789250319428755209,
+         "label" : "Keypirinha: Reload Configuration",
+         "time" : "2024-08-22T06:44:37+0000"
+      },
+      {
+         "action" : null,
+         "item" : 7544475573990267934,
+         "label" : "Keypirinha: Configure",
+         "time" : "2024-08-22T06:44:44+0000"
+      },
+      {
+         "action" : null,
+         "item" : 10710396442316336832,
+         "label" : "Keypirinha: Configure Package: FilesCatalog",
+         "time" : "2024-08-22T06:45:31+0000"
+      },
+      {
+         "action" : null,
+         "item" : 11955276868204494730,
+         "label" : "Keypirinha: Refresh Catalog",
+         "time" : "2024-08-22T06:46:13+0000"
+      },
+      {
+         "action" : null,
+         "item" : 1401783969064914125,
+         "label" : "Keypirinha: Refresh Catalog: FilesCatalog",
+         "time" : "2024-08-22T06:46:29+0000"
+      },
+      {
+         "action" : null,
+         "item" : 14398928990264317640,
+         "label" : "EventNexus.sln",
+         "time" : "2024-08-22T06:46:46+0000"
+      },
+      {
+         "action" : null,
+         "item" : 6948193512805976670,
+         "label" : "Event.cs",
+         "time" : "2024-08-22T06:47:54+0000"
+      },
+      {
+         "action" : null,
+         "item" : 12441508890206515741,
+         "label" : "APIStatus.cs",
+         "time" : "2024-08-22T06:48:15+0000"
+      },
+      {
+         "action" : null,
+         "item" : 14398928990264317640,
+         "label" : "EventNexus.sln",
+         "time" : "2024-08-22T06:48:50+0000"
+      },
+      {
+         "action" : null,
+         "item" : 14398928990264317640,
+         "label" : "EventNexus.sln",
+         "time" : "2024-08-22T06:49:01+0000"
+      },
+      {
+         "action" : null,
+         "item" : 8925743339214259567,
+         "label" : "LSBakManager.sln",
+         "time" : "2024-08-23T07:34:23+0000"
+      },
+      {
+         "action" : null,
+         "item" : 10710396442316336832,
+         "label" : "Keypirinha: Configure Package: FilesCatalog",
+         "time" : "2024-08-23T07:34:55+0000"
+      },
+      {
+         "action" : null,
+         "item" : 12752985039652895582,
+         "label" : "ReminderCalender.cs",
+         "time" : "2024-09-10T05:05:44+0000"
+      },
+      {
+         "action" : null,
+         "item" : 7297783801683872190,
+         "label" : "calc.exe",
+         "time" : "2024-09-10T08:53:47+0000"
+      },
+      {
+         "action" : null,
+         "item" : 7297783801683872190,
+         "label" : "calc.exe",
+         "time" : "2024-09-19T09:14:13+0000"
+      },
+      {
+         "action" : null,
+         "item" : 7297783801683872190,
+         "label" : "calc.exe",
+         "time" : "2024-10-08T11:49:29+0000"
+      },
+      {
+         "action" : null,
+         "item" : 7297783801683872190,
+         "label" : "calc.exe",
+         "time" : "2024-10-08T11:57:32+0000"
+      },
+      {
+         "action" : null,
+         "item" : 7297783801683872190,
+         "label" : "calc.exe",
+         "time" : "2024-10-09T06:40:05+0000"
+      },
+      {
+         "action" : null,
+         "item" : 7297783801683872190,
+         "label" : "calc.exe",
+         "time" : "2024-10-30T08:59:12+0000"
+      },
+      {
+         "action" : null,
+         "item" : 7297783801683872190,
+         "label" : "calc.exe",
+         "time" : "2024-11-04T13:04:37+0000"
+      },
+      {
+         "action" : null,
+         "item" : 7297783801683872190,
+         "label" : "calc.exe",
+         "time" : "2024-11-08T04:50:49+0000"
+      },
+      {
+         "action" : null,
+         "item" : 6637435261182409372,
+         "label" : "ssh.exe",
+         "time" : "2024-11-12T05:01:15+0000"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2024-11-12T05:05:54+0000"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2024-11-12T05:06:00+0000"
+      },
+      {
+         "action" : null,
+         "item" : 9120842333467815951,
+         "label" : "Google Chrome",
+         "time" : "2024-11-12T05:06:13+0000"
+      }
+   ],
+   "sets" : {
+      "actions" : [],
+      "items" : [
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 12441508890206515741,
+            "label" : "APIStatus.cs",
+            "loop_on_suggest" : false,
+            "plugin" : "FilesCatalog.FilesCatalog",
+            "short_desc" : "",
+            "target" : "D:\\LSPL-Production-Project\\Unicommerce\\winbds_unicommerce-connector\\LogViewer\\Enums\\APIStatus.cs"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 7673886259247275428,
+            "label" : "C:\\Program Files\\Git",
+            "loop_on_suggest" : true,
+            "plugin" : "FileBrowser.FileBrowser",
+            "short_desc" : "",
+            "target" : "C:\\Program Files\\Git"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 7297783801683872190,
+            "label" : "calc.exe",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.EnvPath",
+            "short_desc" : "",
+            "target" : "C:\\WINDOWS\\system32\\calc.exe"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 6948193512805976670,
+            "label" : "Event.cs",
+            "loop_on_suggest" : false,
+            "plugin" : "FilesCatalog.FilesCatalog",
+            "short_desc" : "",
+            "target" : "D:\\LSPL-Production-Project\\EventNexus\\eventnexus_event-nexus\\EventNexus\\Features\\Events\\Entities\\Event.cs"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 14398928990264317640,
+            "label" : "EventNexus.sln",
+            "loop_on_suggest" : false,
+            "plugin" : "FilesCatalog.FilesCatalog",
+            "short_desc" : "",
+            "target" : "D:\\LSPL-Production-Project\\EventNexus\\eventnexus_event-nexus\\EventNexus.sln"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 9120842333467815951,
+            "label" : "Google Chrome",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Google Chrome.lnk"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "keyword",
+            "hit_hint" : "noargs",
+            "id" : 7544475573990267934,
+            "label" : "Keypirinha: Configure",
+            "loop_on_suggest" : false,
+            "plugin" : "Internal.About",
+            "short_desc" : "Edit Keypirinha's configuration file(s)",
+            "target" : "app_config"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "reference",
+            "hit_hint" : "noargs",
+            "id" : 10710396442316336832,
+            "label" : "Keypirinha: Configure Package: FilesCatalog",
+            "loop_on_suggest" : false,
+            "plugin" : "Internal.About",
+            "short_desc" : "Configure Package \"FilesCatalog\"",
+            "target" : "pack_config FilesCatalog"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "keyword",
+            "hit_hint" : "noargs",
+            "id" : 11955276868204494730,
+            "label" : "Keypirinha: Refresh Catalog",
+            "loop_on_suggest" : false,
+            "plugin" : "Internal.About",
+            "short_desc" : "Ask all plugins to refresh their catalog",
+            "target" : "refresh_catalog"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "reference",
+            "hit_hint" : "noargs",
+            "id" : 1401783969064914125,
+            "label" : "Keypirinha: Refresh Catalog: FilesCatalog",
+            "loop_on_suggest" : false,
+            "plugin" : "Internal.About",
+            "short_desc" : "Refresh the Catalog of Package \"FilesCatalog\"",
+            "target" : "pack_refresh FilesCatalog"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "keyword",
+            "hit_hint" : "noargs",
+            "id" : 13789250319428755209,
+            "label" : "Keypirinha: Reload Configuration",
+            "loop_on_suggest" : false,
+            "plugin" : "Internal.About",
+            "short_desc" : "Reload configuration of the application and the loaded plugins, and clear icons cache",
+            "target" : "reload_config"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 8925743339214259567,
+            "label" : "LSBakManager.sln",
+            "loop_on_suggest" : false,
+            "plugin" : "FilesCatalog.FilesCatalog",
+            "short_desc" : "",
+            "target" : "D:\\LSPL-Production-Project\\lsbak_lsbak-manager\\LSBakManager.sln"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 12752985039652895582,
+            "label" : "ReminderCalender.cs",
+            "loop_on_suggest" : false,
+            "plugin" : "FilesCatalog.FilesCatalog",
+            "short_desc" : "",
+            "target" : "D:\\LSPL-Production-Project\\crossword_winbds\\winbds\\Reminder\\ReminderCalender.cs"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 6637435261182409372,
+            "label" : "ssh.exe",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.EnvPath",
+            "short_desc" : "",
+            "target" : "C:\\WINDOWS\\System32\\OpenSSH\\ssh.exe"
+         }
+      ],
+      "terms" : [
+         {
+            "items" : [ 7673886259247275428 ],
+            "search" : "c:"
+         },
+         {
+            "items" : [ 7297783801683872190 ],
+            "search" : "cal"
+         },
+         {
+            "items" : [ 12752985039652895582 ],
+            "search" : "calender"
+         },
+         {
+            "items" : [ 7544475573990267934 ],
+            "search" : "conf"
+         },
+         {
+            "items" : [ 7544475573990267934 ],
+            "search" : "configre"
+         },
+         {
+            "items" : [ 6948193512805976670, 14398928990264317640 ],
+            "search" : "event"
+         },
+         {
+            "items" : [ 14398928990264317640 ],
+            "search" : "eventne"
+         },
+         {
+            "items" : [ 14398928990264317640 ],
+            "search" : "eventnex"
+         },
+         {
+            "items" : [ 10710396442316336832 ],
+            "search" : "filesc"
+         },
+         {
+            "items" : [ 9120842333467815951 ],
+            "search" : "goo"
+         },
+         {
+            "items" : [ 9120842333467815951 ],
+            "search" : "google"
+         },
+         {
+            "items" : [ 13789250319428755209 ],
+            "search" : "k"
+         },
+         {
+            "items" : [ 10710396442316336832, 7544475573990267934, 13789250319428755209 ],
+            "search" : "kcon"
+         },
+         {
+            "items" : [ 7544475573990267934 ],
+            "search" : "kconf"
+         },
+         {
+            "items" : [ 7544475573990267934 ],
+            "search" : "kconfi"
+         },
+         {
+            "items" : [ 7544475573990267934, 13789250319428755209 ],
+            "search" : "kconfig"
+         },
+         {
+            "items" : [ 8925743339214259567 ],
+            "search" : "ls"
+         },
+         {
+            "items" : [ 1401783969064914125, 11955276868204494730 ],
+            "search" : "refre"
+         },
+         {
+            "items" : [ 13789250319428755209 ],
+            "search" : "reloa"
+         },
+         {
+            "items" : [ 13789250319428755209 ],
+            "search" : "reload"
+         },
+         {
+            "items" : [ 13789250319428755209 ],
+            "search" : "reloca"
+         },
+         {
+            "items" : [ 6637435261182409372 ],
+            "search" : "ssh"
+         },
+         {
+            "items" : [ 12441508890206515741 ],
+            "search" : "status"
+         }
+      ]
+   }
+}
